@@ -1,0 +1,7 @@
+.listing ul {
+    width: 64%;
+    float: left !important;
+}
+
+
+#ff3054

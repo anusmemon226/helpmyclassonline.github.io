@@ -1,0 +1,33 @@
+.tc{
+    padding: 30px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tc .row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.tc .row .col{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.tc .row .col h1{
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+}
+.tc .row .col h3{
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.tc .row .col ul {}
+.tc .row .col ul li{
+    
+}
+.tc .row .col p{
+    padding: 15px 20px;
+    text-transform: uppercase;
+}

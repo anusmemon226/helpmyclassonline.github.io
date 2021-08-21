@@ -1,0 +1,17 @@
+.course{
+    background: url('../courseBanner.jpeg') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: 0 70% !important;
+}
+.h_m_sec3::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 37%;
+    height: 100%;
+    background: url('../sec4-course.png') no-repeat;
+    background-size: cover;
+    background-position: -155px 0px;
+}

@@ -1,0 +1,16 @@
+.exam{
+    background: url("../examBanner.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.h_m_sec3::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 37%;
+    height: 100%;
+    background: url('../sec4-exam.png') no-repeat;
+    background-size: cover;
+    background-position: 72% 0px;
+}
